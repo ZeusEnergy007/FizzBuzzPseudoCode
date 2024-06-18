@@ -1,0 +1,51 @@
+GitHub passkey
+
+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
+
+Let us play a game!
+It's a counting game named "Fizz Buzz."  Here's how to play...
+
+I'll give you a number and you say it out loud.  Easy. Almost.
+
+Here are the rules.
+
+* If the number I give you is divisible by 3, you'll say "Fizz" instead of the number.  
+* If the number is divisible by 5, you'll say "Buzz."  
+* If it's divisible by 3 and 5, you'll say "Fizz Buzz." 
+* Otherwise, say the number. 
+
+Your first number will be 1 and we'll stop when we reach 16.
+
+Again, your first number is 1.  
+
+Do these steps:
+1. Is your number divisible by 3 and 5?
+	If Yes, say "Fizz Buzz!", then go to Step 5.
+	If No, go to Step 2.
+
+2. Is your number divisible by 5?
+	If Yes, say "Buzz!", then go to Step 5.
+	If No, go to Step 3.
+
+3. Is your number divisible by 3?
+	If Yes, say "Fizz!", then go to Step 5.
+	If No, go to Step 4.
+
+4. If your number did not qualify for any of the above steps,
+	just say your number, then go to Step 5.
+
+5. Add 1 to your number.
+	Go to step 6.
+
+6. Is your new number less than 16?
+	If Yes, go back to Step 1.
+	If No, go to Step 7.
+
+7. is your new number 16?
+	If Yes, say "16!"
+	If No, something has gone horribly wrong in the universe.  Run!
+
+ 
+Thank you for playing Fizz Buzz!
+
+
